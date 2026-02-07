@@ -23,12 +23,7 @@ I’m passionate about **Computer Vision, Machine Learning, and building real-wo
 - **ML Basics:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Pytorch
 - **CS Fundamentals:** DBMS, COA, OS
 - **Tools:** Git, GitHub, VS Code, Linux (WSL)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarak-Ram-1908&show_icons=true&theme=tokyonight)
-
+  
 ---
 
 ## 🌐 Connect With Me
