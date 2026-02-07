@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Alahari Tarak Ram
 
-<!--
-**Tarak-Ram-1908/Tarak-Ram-1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Computer Vision Enthusiast | 🤖 ML Learner  
 
-Here are some ideas to get you started:
+I’m passionate about **Computer Vision, Machine Learning, and building real-world projects** using Python and OpenCV.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently working on **Computer Vision projects**
+- 🌱 Learning **OpenCV, Image Processing, and Machine Learning**
+- 👯 Looking to collaborate on **CV & ML projects**
+- 🤔 Exploring **Deep Learning & real-time vision systems**
+- 💬 Ask me about **Python, OpenCV, ML**
+- 📫 Reach me at: **alaharitarak@gmail.com**
+- 😄 Pronouns: **He/Him**
+
+---
+
+## 🛠️ Skills & Tools
+- **Languages:** Python, C, C++
+- **Computer Vision:** OpenCV, Image Processing
+- **ML Basics:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Pytorch
+- **CS Fundamentals:** DBMS, COA, OS
+- **Tools:** Git, GitHub, VS Code, Linux (WSL)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarak-Ram-1908&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: *https://www.linkedin.com/in/tarak-ram-a49226333/*
+- 🧠 LeetCode: *https://leetcode.com/u/alaharitarak/*
+- 📧 Email: **alaharitarak@gmail.com**
+
+---
+
+⭐ If you like my work, consider starring my repositories!
