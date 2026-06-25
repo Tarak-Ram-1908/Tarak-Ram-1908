@@ -1,10 +1,10 @@
 # Alahari Tarak Ram 
-**B.Tech in Computer Science & Engineering | IIITDM Kancheepuram** *Aspiring AI Research Engineer | Focus: Computer Vision, NLP, Time Series, RL, Multimodal ML*
+**B.Tech in Computer Science & Engineering | IIITDM Kancheepuram** *Aspiring AI Research Engineer | Focus: Computer Vision, Natural Language Processing, Time Series, Reinforcement learning, Multimodal ML*
 
 ---
 
 ### 🚀 About Me
-I am a 4th-semester Computer Science student at IIITDM Kancheepuram (CGPA: 8.48) dedicated to advancing the state of the art in Artificial Intelligence. I am actively building a research portfolio aimed at top-tier MS programs and global R&D roles.
+I am a 5th-semester Computer Science student at IIITDM Kancheepuram (CGPA: 8.67) dedicated to advancing the state of the art in Artificial Intelligence. I am actively building a research portfolio aimed at top-tier MS programs and global R&D roles.
 
 - 🔭 **Current Focus:** Low-Resource Neural Machine Translation (Telugu-to-English) and Text-to-SQL Generation using Transformer Architectures.
 
