@@ -1,36 +1,47 @@
-# Alahari Tarak Ram 
-**B.Tech in Computer Science & Engineering | IIITDM Kancheepuram** *Aspiring AI Research Engineer | Focus: Computer Vision, Natural Language Processing, Time Series, Reinforcement learning, Multimodal ML*
+# Alahari Tarak Ram
+**B.Tech in Computer Science & Engineering | IIITDM Kancheepuram**
+*Aspiring AI Research Engineer | Focus: Computer Vision, Multimodal ML, Natural Language Processing*
 
 ---
 
 ### 🚀 About Me
+
 I am a 5th-semester Computer Science student at IIITDM Kancheepuram (CGPA: 8.67) dedicated to advancing the state of the art in Artificial Intelligence. I am actively building a research portfolio aimed at top-tier MS programs and global R&D roles.
 
-- 🔭 **Current Focus:** Low-Resource Neural Machine Translation (Telugu-to-English) and Text-to-SQL Generation using Transformer Architectures.
+- 🔭 **Current Focus:** Multimodal Visual Question Answering for sports video understanding — fine-tuning LLaVA-1.5-7B with LoRA on a custom-annotated Cricket VQA dataset.
 
 ---
 
 ### 🧬 Selected Research & Projects
 
-#### 📂 [Low-Resource Machine Translation (Telugu-to-English)](https://github.com/Tarak-Ram-1908/Telugu-to-English-NMT)
-*Developing and optimizing NMT models for low-resource language pairs. Exploring data augmentation, back-translation, and transfer learning techniques to improve translation BLEU scores for Telugu.*
+#### 📂 [Cricket Visual Question Answering (VQA)](https://github.com/Tarak-Ram-1908/cricket-vqa)
+*Building a domain-specific multimodal VQA system for T20 broadcast footage. Involves constructing a custom annotated dataset of 500+ frames across five question types (counting, spatial, formation, context, tactical delivery prediction), and fine-tuning LLaVA-1.5-7B with LoRA adapters.*
 
-#### 📂 [Text-to-SQL with T5-Small Transformers](https://github.com/Tarak-Ram-1908/Text-to-SQL)
-*Fine-tuned T5 models to translate natural language into executable SQL. Focused on domain adaptation and improving model generalization on the Spider dataset.*
+#### 📂 [ICC Women's T20 WC 2026 — ML Win Predictions](https://github.com/Tarak-Ram-1908/wc2026-predictions)
+*End-to-end LightGBM win-prediction system trained on 703 Cricsheet matches. 63 engineered features across ELO ratings, H2H history, venue familiarity, phase-by-phase batting/bowling ratings, and toss dynamics. Achieved 93.5% accuracy on held-out 2022 & 2024 World Cup data. Deployed as a [GitHub Pages site](https://tarak-ram-1908.github.io/wc2026-predictions).*
+
+#### 📂 [Low-Resource Machine Translation (Telugu-to-English)](https://github.com/Tarak-Ram-1908/Telugu-to-English-NMT)
+*Fine-tuning IndicBART for low-resource Telugu→English NMT using RAMP data augmentation on the Samanantar corpus. Exploring back-translation and transfer learning to improve BLEU scores.*
+
+#### 📂 [Text-to-SQL with T5-Small Transformers](https://github.com/Tarak-Ram-1908/text2sql-transformer)
+*Schema-aware Text-to-SQL system fine-tuned on the Spider dataset. Focused on domain adaptation and improving generalization of T5-small to complex multi-table queries.*
 
 ---
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, C++, C, Verilog, SQL.
-- **AI/ML Frameworks:** PyTorch, Hugging Face Transformers, Scikit-learn.
-- **Libraries:** OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn.
-- **Research Interests:** Multimodal Machine Learning, Reinforcement Learning, Time Series Forecasting, Computer Vision, Natural Language Processing.
+
+- **Languages:** Python, C++, C, Verilog, SQL
+- **AI/ML Frameworks:** PyTorch, Hugging Face Transformers, Scikit-learn, LightGBM
+- **Libraries:** OpenCV, NumPy, Pandas, Matplotlib, Seaborn
+- **Research Interests:** Multimodal Machine Learning, Computer Vision, Natural Language Processing, Reinforcement Learning, Time Series Forecasting
 
 ---
 
 ### 📫 Connect with Me
+
 - **LinkedIn:** [linkedin.com/in/tarak-ram-alahari-a49226333](https://linkedin.com/in/tarak-ram-alahari-a49226333)
 - **Email:** [alaharitarak@gmail.com](mailto:alaharitarak@gmail.com)
 
 ---
+
 *"Precision in code, innovation in research."*
