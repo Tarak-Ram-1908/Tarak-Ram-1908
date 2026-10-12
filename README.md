@@ -1,6 +1,6 @@
 # Alahari Tarak Ram
 **B.Tech in Computer Science & Engineering | IIITDM Kancheepuram**
-*Aspiring AI Research Engineer | Focus: Computer Vision, Multimodal ML, Natural Language Processing*
+*Aspiring AI Research Engineer | Focus: Multimodal ML, Natural Language Processing*
 
 ---
 
